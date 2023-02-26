@@ -1,0 +1,13 @@
+﻿  ProcessHollow.c
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(12,13): warning C4047: “函数”:“char *const ”与“char *[260]”的间接级别不同
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(12,10): warning C4024: “sprintf”: 形参和实参 1 的类型不同
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(13,23): warning C4047: “函数”:“LPCSTR”与“char *[260]”的间接级别不同
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(13,20): warning C4024: “MessageBoxA”: 形参和实参 2 的类型不同
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(46,3): warning C4129: “W”: 不可识别的字符转义序列
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(46,3): warning C4129: “S”: 不可识别的字符转义序列
+C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\ProcessHollow\ProcessHollow.c(46,3): warning C4129: “c”: 不可识别的字符转义序列
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ProcessHollow.vcxproj -> C:\Users\87251\Downloads\ProcessHollow-master\ProcessHollow-master\Release\ProcessHollow.exe
