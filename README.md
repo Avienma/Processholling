@@ -6,6 +6,6 @@
 
 测试效果 项目Test1为测试程序，实战中替换即可
 
-![图片](https://user-images.githubusercontent.com/83112602/221411377-d8a86ad0-fdd2-43c9-b0c7-f2158af52913.png)
+
 
 
